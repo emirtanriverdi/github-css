@@ -13,4 +13,5 @@ Using css files:<br>
  Original files:<br>
  <a href="https://github.githubassets.com/assets/primer-60c5e476b0dc.css">style.css</a><br>
  <a href="https://github.githubassets.com/assets/light-8cafbcbd78f4.css">light.css</a><br>
- <a href="https://github.githubassets.com/assets/dark-31dc14e38457.css">dark.css</a>
+ <a href="https://github.githubassets.com/assets/dark-31dc14e38457.css">dark.css</a><br><br>
+ <strong>Some features on the page require additional javascript and css files. These files only complete the image, there will be no bugs in the image. Tried individual css files.</strong>
