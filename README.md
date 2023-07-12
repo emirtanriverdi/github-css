@@ -7,7 +7,7 @@ When <code>data-color-mode="auto"</code> is in this auto, dark and light modes a
 Using css files:<br>	
   <code>link rel="stylesheet" href="style.css"</code>
   <code>link rel="stylesheet" href="light.css"</code>
-  </code>link rel="stylesheet" href="dark.css"</code><br><br>
+  <code>link rel="stylesheet" href="dark.css"</code><br><br>
  Where will this work for us?
  There are some narrator pages on Github (, you can add those pages to your own site as in github.<br>
  Of course it can be used for many other purposes. You can even use it to beautify your own site.<br><br>
