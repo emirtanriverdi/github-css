@@ -5,9 +5,9 @@ Using dark and light mode:<br>
 <code>data-light-theme="light" data-dark-theme="dark"</code> these advertise dark and light mode.<br>
 When <code>data-color-mode="auto"</code> is in this auto, dark and light modes are set according to the device theme. but you can set the theme yourself by typing light or dark.<br><br>
 Using css files:<br>	
-  <link rel="stylesheet" href="style.css">
-	<link rel="stylesheet" href="light.css">
-	<link rel="stylesheet" href="dark.css"><br><br>
+  <code>link rel="stylesheet" href="style.css"</code>
+  <code>link rel="stylesheet" href="light.css"</code>
+  </code>link rel="stylesheet" href="dark.css"</code><br><br>
  Where will this work for us?
  There are some narrator pages on Github (, you can add those pages to your own site as in github.<br>
  Of course it can be used for many other purposes. You can even use it to beautify your own site.<br><br>
