@@ -3,7 +3,7 @@ Required css files to view Github pages.
 Using dark and light mode:<br>
 <html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
 <code>data-light-theme="light" data-dark-theme="dark"</code> these advertise dark and light mode.<br>
-When <code><data-color-mode="auto"></code> is in this auto, dark and light modes are set according to the device theme. but you can set the theme yourself by typing light or dark.<br>br>
+When <code>data-color-mode="auto"</code> is in this auto, dark and light modes are set according to the device theme. but you can set the theme yourself by typing light or dark.<br>br>
 Using css files:<br>	
   <link rel="stylesheet" href="style.css">
 	<link rel="stylesheet" href="light.css">
