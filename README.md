@@ -1,6 +1,7 @@
 # github-css
 Required css files to view Github pages.
 Using dark and light mode:<br>
+<code>&lt;html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"&gt;</code>
 <code>&lt;data-light-theme="light" data-dark-theme="dark"&gt;</code> these advertise dark and light mode.<br>
 When <code>&lt;data-color-mode="auto"&gt;</code> is in this auto, dark and light modes are set according to the device theme. but you can set the theme yourself by typing light or dark.<br><br>
 Using css files:<br>	
